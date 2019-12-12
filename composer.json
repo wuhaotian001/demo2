@@ -8,5 +8,22 @@
             "email": "913812595@qq.com"
         }
     ],
-    "require": {}
+    "require": {
+        "gregwar/captcha": "^1.1"
+    },
+    "autoload": {
+        "files": [
+            "core/function.php"
+        ],
+        "psr-4": {
+            "core\\": "core",
+            "web\\": "web"
+        }
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
 }
