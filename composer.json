@@ -1,0 +1,12 @@
+{
+    "name": "wuhao/demo2",
+    "description": "teste",
+    "type": "project",
+    "authors": [
+        {
+            "name": "devin",
+            "email": "913812595@qq.com"
+        }
+    ],
+    "require": {}
+}
